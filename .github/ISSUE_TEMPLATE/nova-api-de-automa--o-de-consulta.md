@@ -19,13 +19,11 @@ COLOQUE_AQUI_A_URL_DA_CONSULTA
 
 - PARAMETRO_1
 - PARAMETRO_2
-...
 
 ### Passo a passo de como realizar manualmente a consulta:
 
 1. PASSO_1
 2. PASSO_2
-...
 
 ### Qual é uma boa descrição desta consulta?
 
