@@ -7,34 +7,34 @@ assignees: ''
 
 ---
 
-#### Nome da consulta:
+### Nome da consulta:
 
 COLOQUE_AQUI_O_NOME_DA_CONSULTA
 
-#### URL da consulta:
+### URL da consulta:
 
 COLOQUE_AQUI_A_URL_DA_CONSULTA
 
-#### Parâmetros de entrada necessários para fazer a consulta:
+### Parâmetros de entrada necessários para fazer a consulta:
 
 - PARAMETRO_1 - DESCRICAO_DO_PARAMETRO1
 - PARAMETRO_2 - DESCRICAO_DO_PARAMETRO2
 ...
 
-#### Passo a passo de como realizar manualmente a consulta:
+### Passo a passo de como realizar manualmente a consulta:
 
 1. PASSO_1
 2. PASSO_2
 ...
 
-#### Qual é uma boa descrição desta consulta?
+### Qual é uma boa descrição desta consulta?
 
 TEXTO_QUE_DESCREVE_BREVEMENTE_O_QUE_A_CONSULTA_FAZ.
 
-#### [OPCIONAL] Você gostaria de usar esta API para automatizar que tipo de processo da sua empresa?
+### [OPCIONAL] Você gostaria de usar esta API para automatizar que tipo de processo da sua empresa?
 
 TEXTO_QUE_DESCREVE_A_FINALIDADE_DE_USO_DA_API
 
-#### [OPCIONAL] Você gostaria de dizer algo mais que não perguntamos?
+### [OPCIONAL] Você gostaria de dizer algo mais que não perguntamos?
 
 TEXTO_OPCIONAL
