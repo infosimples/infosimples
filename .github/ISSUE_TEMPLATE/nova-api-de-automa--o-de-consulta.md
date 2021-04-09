@@ -17,8 +17,8 @@ COLOQUE_AQUI_A_URL_DA_CONSULTA
 
 ### Parâmetros de entrada necessários para fazer a consulta:
 
-- PARAMETRO_1 - DESCRICAO_DO_PARAMETRO1
-- PARAMETRO_2 - DESCRICAO_DO_PARAMETRO2
+- PARAMETRO_1
+- PARAMETRO_2
 ...
 
 ### Passo a passo de como realizar manualmente a consulta:
@@ -33,7 +33,8 @@ TEXTO_QUE_DESCREVE_BREVEMENTE_O_QUE_A_CONSULTA_FAZ.
 
 ### [OPCIONAL] Você gostaria de usar esta API para automatizar que tipo de processo da sua empresa?
 
-TEXTO_QUE_DESCREVE_A_FINALIDADE_DE_USO_DA_API
+- PROCESSO_1
+- PROCESSO_2
 
 ### [OPCIONAL] Você gostaria de dizer algo mais que não perguntamos?
 
