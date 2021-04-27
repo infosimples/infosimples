@@ -1,6 +1,6 @@
-# Comunidade da Infosimples
+# Espaço da Infosimples
 
-Olá. Este repositório de GitHub é um espaço dedicado a criadores de soluções de automação que usam a Infosimples.
+Este repositório de GitHub é um espaço dedicado a criadores de soluções de automação que usam a Infosimples.
 
 Na área [Discussions](https://github.com/infosimples/infosimples/discussions) você pode sugerir funcionalidades, esclarecer dúvidas ou conversar sobre o que quiser.
 
