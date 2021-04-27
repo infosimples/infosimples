@@ -1,20 +1,15 @@
-# Roadmap (plano) de desenvolvimento da Infosimples - 2021
+# Comunidade da Infosimples
 
-A [Infosimples](https://infosimples.com/) usa este repositório para planejar e acompanhar o desenvolvimento de
-atividades e funcionalidades públicas e que podem ter algum impacto em nossos clientes.
+Olá. Este repositório de GitHub é um espaço dedicado a criadores de soluções de automação que usam a Infosimples.
 
-## Atividades
+Na área [Discussions](https://github.com/infosimples/infosimples/discussions) você pode sugerir funcionalidades, esclarecer dúvidas ou conversar sobre o que quiser.
 
-Você pode [ver todas as atividades](https://github.com/infosimples/roadmap/issues?q=is%3Aissue) ou atividades de um tipo
-específico:
+Na área [Issues](https://github.com/infosimples/infosimples/issues) você pode acompanhar tudo que será desenvolvido pela Infosimples _(filtre por [status: confirmed](https://github.com/infosimples/infosimples/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+confirmed%22) para ver no que estamos trabalhando agora)_.
 
-- [Atividade com desenvolvimento iniciado](https://github.com/infosimples/roadmap/labels/started)
-- [Nova API de automação de consultas](https://github.com/infosimples/roadmap/labels/project%3Aconsultas)
-- [Nova API de extração de dados de imagem](https://github.com/infosimples/roadmap/labels/project%3Aimagens)
-- [Nova funcionalidade não relacionada a um produto específico](https://github.com/infosimples/roadmap/labels/feature)
-- [Correção de problema](https://github.com/infosimples/roadmap/labels/bug)
-- [Concluída](https://github.com/infosimples/roadmap/issues?q=is%3Aissue+is%3Aclosed+)
+Em nosso [Histórico de mudanças](https://api.infosimples.com/mudancas) você encontra um registro com todas as mudanças significativas feitas na API da Infosimples.
 
-## Histórico de mudanças significativas
+## Sobre a Infosimples
 
-https://api.infosimples.com/mudancas
+A Infosimples é uma empresa que disponibiliza centenas de [APIs para automação de consultas](https://infosimples.com/consultas/) em sites públicos.
+
+Caso prefira fazer contato de forma particular, basta enviar uma mensagem para suporte@infosimples.com.br.
