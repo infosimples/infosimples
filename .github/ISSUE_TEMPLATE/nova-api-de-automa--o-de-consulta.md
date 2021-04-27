@@ -2,7 +2,7 @@
 name: Nova API de automação de consulta
 about: Solicite uma nova API de automação de consulta para a Infosimples
 title: "[API de Automação de Consulta] COLOQUE_AQUI_O_NOME_DA_CONSULTA"
-labels: project:consultas
+labels: ''
 assignees: ''
 
 ---
