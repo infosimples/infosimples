@@ -2,8 +2,6 @@
 
 Este repositório de GitHub é um espaço dedicado a criadores de soluções de automação que usam a Infosimples.
 
-Na área [Discussions](https://github.com/infosimples/infosimples/discussions) você pode sugerir funcionalidades, esclarecer dúvidas ou conversar sobre o que quiser.
-
 Na área [Issues](https://github.com/infosimples/infosimples/issues) você pode acompanhar tudo que será desenvolvido pela Infosimples _(filtre por [status: confirmed](https://github.com/infosimples/infosimples/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+confirmed%22) para ver no que estamos trabalhando agora)_.
 
 Em nosso [Histórico de mudanças](https://api.infosimples.com/mudancas) você encontra um registro com todas as mudanças significativas feitas na API da Infosimples.
