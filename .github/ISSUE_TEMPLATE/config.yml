@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Suporte Infosimples
-    url: mailto:suporte@infosimples.com.br
+    url: https://api.infosimples.com
     about: Precisa de ajuda ou encontrou um problema? Envie um e-mail para nosso suporte.
   - name: Documentação
     url: https://api.infosimples.com/consultas/docs
     about: Consulte a documentação oficial antes de prosseguir.
+  - name: Criação de conta
+    url: https://api.infosimples.com/cadastro
+    about: Se ainda não tem uma conta na Infosimple, crie uma nessa URL.
