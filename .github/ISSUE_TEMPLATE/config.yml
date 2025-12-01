@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suporte Infosimples
+    url: mailto:suporte@infosimples.com.br
+    about: Precisa de ajuda ou encontrou um problema? Envie um e-mail para nosso suporte.
+  - name: Documentação
+    url: https://api.infosimples.com/consultas/docs
+    about: Consulte a documentação oficial antes de prosseguir.
